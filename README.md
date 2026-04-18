@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ARWA-ALraddadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+👩‍💻 Data Analyst | SQL · Python · Tableau · Power BI
+🎓 MSc Data Analytics — UTS Sydney
+📍 Saudi Arabia | Open to Work
+🔧 Skills: Pandas, Matplotlib, SQL, Power BI
 
 <!---
 ARWA-ALraddadi/ARWA-ALraddadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
